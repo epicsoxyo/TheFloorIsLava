@@ -26,7 +26,7 @@ All models were created using primitives. This project taught me:
 - How to apply physic and graphic materials to models
 - How to effectively use prefabs
 
-The purpose of this project was more to have a play around with the editor, so don't expect any scripting :^)
+The purpose of this project was more to have a play around with the editor, so don't expect much in terms of scripting :^)
 
 ### Acknowledgements
 
